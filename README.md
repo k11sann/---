@@ -15,4 +15,4 @@
 Нельзя касаться красного цвета!
 Жёлтые объекты снижают скорость противника до минимума!
 Когда противник чёрного цвета то его нельзя остановить, только в красном состоянии он может коснуться жёлтых объектов
-<h2>Скачать : <a href="https://sielom.ru/pytach-college/sveden">funnyDogonyalki.7z</a></h2>
+<h2>Скачать : <a href="https://github.com/k11sann/UnityGames/blob/main/funnyDogonyalki.7z">funnyDogonyalki.7z</a></h2>
