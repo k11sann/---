@@ -11,7 +11,7 @@
 <h2> Скачать : <a href="https://github.com/k11sann/UnityGames/blob/main/kvadro.7z">kvadro.7z</a></h2>
 
 <h1>🟥ВЕСЛЁНЫЕ ДОГОНЯЛКИ БХОПЧИК! ! ! ( НОВОЕ )</h1>
-<p align="center"><img src="https://github.com/k11sann/UnityGames/blob/main/readmeImages/game2_1.jpg" width=100% height=100% alt="Welcome to my profile, cool guys!"></p>
+<p align="center"><img src="https://github.com/k11sann/UnityGames/blob/main/readmeImages/game2_1.png" width=100% height=100% alt="Welcome to my profile, cool guys!"></p>
 <p align="center">Вы играете за убегателя и должны продержаться как можно больше!</p>
 
 <h2>УПРАВЛЕНИЕ И СОВЕТЫ!</h2>
