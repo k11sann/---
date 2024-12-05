@@ -20,4 +20,6 @@
 <p>Нельзя касаться красного цвета! Нельзя вылетать за карту и под карту! Не отжимайте SPACE!</p>
 <p>Жёлтые объекты снижают скорость противника до минимума!</p>
 <p>Когда противник чёрного цвета то его нельзя остановить, только в красном состоянии он может коснуться жёлтых объектов</p>
-<h2>Скачать : <a href="https://github.com/k11sann/UnityGames/blob/main/funnyDogonyalki.7z">funnyDogonyalki.7z</a></h2>
+<h2>Скачать : <a href="https://github.com/k11sann/UnityGames/blob/main/funnyDogonyalkV2i.7z">funnyDogonyalki.7z [ V2 ]</a></h2>
+<h3> Старые билды </h3>
+<p>Скачать : <a href="https://github.com/k11sann/UnityGames/blob/main/funnyDogonyalki.7z">funnyDogonyalki.7z [ V1 ]</a></p>
