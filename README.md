@@ -24,6 +24,8 @@
 <p>* Новая карта</p>
 <p>* Переработанная формула скорости врага</p>
 <p>* Доделанный UI</p>
+<h2>Leaderboard</h2>
+<p>* Kalail - 142 секунды</p>
 <h2>Скачать : <a href="https://github.com/k11sann/UnityGames/blob/main/funnyDogonyalkV2i.7z">funnyDogonyalki.7z [ V2 ]</a></h2>
 <h3> Старые билды </h3>
 <p>Скачать : <a href="https://github.com/k11sann/UnityGames/blob/main/funnyDogonyalki.7z">funnyDogonyalki.7z [ V1 ]</a></p>
